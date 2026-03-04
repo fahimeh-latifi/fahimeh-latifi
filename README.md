@@ -17,13 +17,13 @@ Mostly worked with **Oracle & SQL Server**, with Python for small projects and a
 ### 1️⃣ ERP & Oracle Projects
 | Project | Description | Screenshot |
 |---------|-------------|------------|
-| [enterprise-project-erp-oracle](https://github.com/fahimeh-latifi/enterprise-project-erp-oracle) | ERP simulation using Oracle DB: accounting, procurement, warehouse, HR modules. | <img src="https://i.imgur.com/7XlQ1bD.png" width="200"/> |
+| [enterprise-project-erp-oracle](https://github.com/fahimeh-latifi/enterprise-project-erp-oracle) | ERP simulation using Oracle DB: accounting, procurement, warehouse, HR modules. |
 
 ### 2️⃣ Data Warehouse & BI Projects
 | Project | Description | Screenshot |
 |---------|-------------|------------|
-| [ProjectFinance_DW](https://github.com/fahimeh-latifi/ProjectFinance_DW) | Project-based Financial DW: ETL, OLAP, Star Schema, KPI dashboards. | <img src="https://i.imgur.com/1K6OQhx.png" width="300"/> |
-| [Dashboards & BI samples](#) | Power BI and Excel dashboards: Revenue, Expenses, Profit, KPIs visualization. | <img src="https://i.imgur.com/U5kU1cT.png" width="300"/> |
+| [ProjectFinance_DW](https://github.com/fahimeh-latifi/ProjectFinance_DW) | Project-based Financial DW: ETL, OLAP, Star Schema, KPI dashboards. 
+| [Dashboards & BI samples](#) | Power BI and Excel dashboards: Revenue, Expenses, Profit, KPIs visualization. | 
 
 ### 3️⃣ Python Fun Projects
 | Project | Description |
