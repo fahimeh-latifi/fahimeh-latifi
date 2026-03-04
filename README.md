@@ -50,12 +50,34 @@ Mostly worked with **Oracle & SQL Server**, with Python for small projects and a
 - **Data Modeling:** OLTP & OLAP, Star Schema, KPI Design
 
  ### ⚙️ Tech Stack
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) 
+![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat-square&logo=PyTorch&color=353535) 
+![LangChain](https://img.shields.io/badge/-LangChain-05122A?style=flat-square&color=353535) 
+![LangGraph](https://img.shields.io/badge/-LangGraph-05122A?style=flat-square&color=353535) 
+![LlamaIndex](https://img.shields.io/badge/-LlamaIndex-05122A?style=flat-square&color=353535) 
+![AutoGen](https://img.shields.io/badge/-AutoGen-05122A?style=flat-square&color=353535) 
+![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat-square&logo=FastAPI&color=353535) 
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat-square&logo=Django&color=353535) 
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=PostgreSQL&color=353535) 
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-05122A?style=flat-square&logo=RabbitMQ&color=353535) 
+![Celery](https://img.shields.io/badge/-Celery-05122A?style=flat-square&logo=Celery&color=353535) 
+![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-05122A?style=flat-square&logo=Apache-Spark&color=353535) 
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=Docker&color=353535) 
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat-square&logo=Kubernetes&color=353535) 
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=MongoDB&color=353535) 
+![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=Pandas&color=353535) 
+![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat-square&logo=Numpy&color=353535) 
+![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat-square&logo=Scikit-Learn&color=353535) 
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=Git&color=353535)
 
-![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-PyTorch-05122A?style=flat-square&logo=PyTorch&color=353535) ![Bootstrap](https://img.shields.io/badge/-LangChain-05122A?style=flat-square&color=353535) ![Bootstrap](https://img.shields.io/badge/-LangGraph-05122A?style=flat-square&color=353535) ![Bootstrap](https://img.shields.io/badge/-LlamaIndex-05122A?style=flat-square&color=353535) ![Bootstrap](https://img.shields.io/badge/-AutoGen-05122A?style=flat-square&color=353535) ![Bootstrap](https://img.shields.io/badge/-FastAPI-05122A?style=flat-square&logo=FastAPI&color=353535) ![Bootstrap](https://img.shields.io/badge/-Django-05122A?style=flat-square&logo=Django&color=353535) ![Bootstrap](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=PostgreSQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-RabbitMQ-05122A?style=flat-square&logo=RabbitMQ&color=353535) ![Bootstrap](https://img.shields.io/badge/-Celery-05122A?style=flat-square&logo=Celery&color=353535) ![Bootstrap](https://img.shields.io/badge/-Apache%20Spark-05122A?style=flat-square&logo=Apache-Spark&color=353535) ![Bootstrap](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=Docker&color=353535) ![Bootstrap](https://img.shields.io/badge/-Kubernetes-05122A?style=flat-square&logo=Kubernetes&color=353535) ![Bootstrap](https://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=MongoDB&color=353535) ![Bootstrap](https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=Pandas&color=353535) ![Bootstrap](https://img.shields.io/badge/-Numpy-05122A?style=flat-square&logo=Numpy&color=353535) ![Bootstrap](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat-square&logo=Scikit-Learn&color=353535) ![Bootstrap](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=Git&color=353535)
+![Oracle](https://img.shields.io/badge/-Oracle-05122A?style=flat-square&logo=Oracle&color=red) 
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat-square&logo=Microsoft-SQL-Server&color=CC2927) 
+![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat-square&logo=Power-BI&color=F2C811) 
+![SSIS](https://img.shields.io/badge/-SSIS-05122A?style=flat-square&logo=Microsoft&color=0078D7) 
+![Excel](https://img.shields.io/badge/-Excel-05122A?style=flat-square&logo=Microsoft-Excel&color=217346) 
+![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat-square&logo=Tableau&color=E97627)
 
-<div>
-  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=hejazizo&" alt="hejazizo" />
-</div>
+
 
 ---
 
