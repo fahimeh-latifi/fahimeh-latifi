@@ -1,6 +1,10 @@
 
 # Fahimeh Latifi - Data & Database Projects 👩‍💻
 
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fa-la/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:latififahimeehh@gmail.com)
+
 <p align="center">
 <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="200"/>
 </p>
