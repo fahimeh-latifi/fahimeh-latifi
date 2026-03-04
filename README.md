@@ -2,7 +2,7 @@
 # Fahimeh Latifi - Data & Database Projects 👩‍💻
 
 <p align="center">
-<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="200"/>
+<img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="200"/>
 </p>
 
 ## 🔹 About Me
