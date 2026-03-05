@@ -41,12 +41,6 @@ Mostly worked with **Oracle & SQL Server**, with Python for small projects and a
 
 ---
 
-## 📊 Sample Dashboards
-<p align="center">
-<img src="https://i.imgur.com/1K6OQhx.png" width="600" alt="Sample Dashboard"/>
-</p>
-
----
 
 ## 🛠 Skills & Tools
 - **Databases:** Oracle 19c, SQL Server  
