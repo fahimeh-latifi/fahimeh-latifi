@@ -18,21 +18,27 @@ Mostly worked with **Oracle & SQL Server**, with Python for small projects and a
 
 ## 📂 Project Categories
 
-### 1️⃣ ERP & Oracle Projects
-| Project | Description | Screenshot |
-|---------|-------------|------------|
+### 1️ ERP & Oracle Projects
+| Project | Description |
+|---------|-------------|
 | [enterprise-project-erp-oracle](https://github.com/fahimeh-latifi/enterprise-project-erp-oracle) | ERP simulation using Oracle DB: accounting, procurement, warehouse, HR modules. |
 
-### 2️⃣ Data Warehouse & BI Projects
-| Project | Description | Screenshot |
-|---------|-------------|------------|
+### 2️ Data Warehouse & BI Projects
+| Project | Description |
+|---------|-------------|
 | [ProjectFinance_DW](https://github.com/fahimeh-latifi/ProjectFinance_DW) | Project-based Financial DW: ETL, OLAP, Star Schema, KPI dashboards. 
 | [Dashboards & BI samples](#) | Power BI and Excel dashboards: Revenue, Expenses, Profit, KPIs visualization. | 
 
-### 3️⃣ Python Fun Projects
+### 3️ Python Fun Projects
 | Project | Description |
 |---------|-------------|
 | [Python_Projects](https://github.com/fahimeh-latifi/Python_Projects) | Games & utilities: Rock-Paper-Scissors, Number Guesser, Password Generator, Happy Number, Monty Hall Simulator, Tic-Tac-Toe, Email Automation, Currency Converter, Number to Words, etc. |
+### 4 Data Warehouse & BI Projects
+| Project | Description |
+|---------|-------------|
+| [ProjectFinance_DW](https://github.com/fahimeh-latifi/ProjectFinance_DW) | Project-based Financial DW: ETL, OLAP, Star Schema, KPI dashboards. | |
+| [Credit Card Financial Dashboard](https://github.com/fahimeh-latifi/Credit_Card_Financial_Dashboard) | Power BI dashboard analyzing credit card transactions, revenue trends, and customer segmentation. |
+| [Dashboards & BI samples](#) | Power BI and Excel dashboards: Revenue, Expenses, Profit, KPIs visualization. | |
 
 ---
 
