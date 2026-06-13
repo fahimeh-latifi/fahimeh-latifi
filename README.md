@@ -50,10 +50,25 @@ Mostly worked with **Oracle & SQL Server**, with Python for small projects and a
 
 
 ## 🛠 Skills & Tools
-- **Databases:** Oracle 19c, SQL Server  
-- **ETL & BI:** Power BI, Excel, SSIS, Tableau  
-- **Programming & Automation:** Python (games, scripts, automation)  
-- **Data Modeling:** OLTP & OLAP, Star Schema, KPI Design
+### ☁️ Data Engineering & Cloud
+- Databricks (Auto Loader, Delta Lake, Medallion Architecture, PySpark, SQL)
+
+### 🗄️ Databases
+- Oracle 19c
+- SQL Server
+
+### 📊 BI & Reporting Tools
+- Power BI
+- Tableau
+- Excel
+- SSIS
+
+### 💻 Programming & Automation
+- Python (ETL scripts, automation, data processing)
+
+### 🧠 Data Modeling
+- OLTP & OLAP Design
+- Star Schema Modeling
 
  ### ⚙️ Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) 
