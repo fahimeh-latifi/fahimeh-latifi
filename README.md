@@ -39,6 +39,13 @@ Mostly worked with **Oracle & SQL Server**, with Python for small projects and a
 | [Credit Card Financial Dashboard](https://github.com/fahimeh-latifi/Credit_Card_Financial_Dashboard) | Power BI dashboard analyzing credit card transactions, revenue trends, and customer segmentation. |
 | [Dashboards & BI samples](#) | Power BI and Excel dashboards: Revenue, Expenses, Profit, KPIs visualization. | |
 
+### 5 Analytics & Data Engineering Projects
+
+| Project | Description |
+|---------|-------------|
+| [Databricks Insurance Lakehouse Pipeline](https://github.com/fahimeh-latifi/databricks-insurance-project) | End-to-end Insurance Data  |Engineering project built on Databricks using Auto Loader, Delta Lake, Medallion Architecture (Bronze, Silver, Gold), SQL, PySpark, Data  Quality Rules, Risk Scoring, Fraud Detection, and Interactive Dashboards. |
+|
+
 ---
 
 
