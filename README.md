@@ -37,7 +37,7 @@ Mostly worked with **Oracle & SQL Server**, with Python for small projects and a
 | Project | Description |
 |---------|-------------|
 | [Credit Card Financial Dashboard](https://github.com/fahimeh-latifi/Credit_Card_Financial_Dashboard) | Power BI dashboard analyzing credit card transactions, revenue trends, and customer segmentation. |
-| [Dashboards & BI samples](#) | Power BI and Excel dashboards: Revenue, Expenses, Profit, KPIs visualization. | |
+| [Dashboards & BI samples](https://github.com/fahimeh-latifi/Credit_Card_Financial_Dashboard/tree/main/dashboard) | Power BI and Excel dashboards: Revenue, Expenses, Profit, KPIs visualization. | |
 
 ### 5 Analytics & Data Engineering Projects
 
